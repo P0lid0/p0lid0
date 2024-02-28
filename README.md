@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, me chamo Pedro!
+Estudante de engenharia de software e Servicedesk
 
 <!--
 **P0lid0/p0lid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
