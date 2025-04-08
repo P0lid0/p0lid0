@@ -23,8 +23,8 @@
 
 ## 📫 Vamos conversar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil-aqui)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:seu-email-aqui@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/pedro-pólido)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](pedrinhopolido@gmail.com)
 
 ---
 
